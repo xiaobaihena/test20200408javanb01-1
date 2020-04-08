@@ -7,6 +7,6 @@ package com.rj.bd.user.action;
 public class UserAction {
 
 	public void SayHi(){
-		
+		System.out.println("小张：111");
 	}
 }
